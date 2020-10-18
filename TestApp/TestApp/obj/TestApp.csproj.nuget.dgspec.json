@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oleksii\\source\\repos\\TestApp\\TestApp\\TestApp.csproj": {}
+    "C:\\src\\test\\TestApp\\TestApp\\TestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oleksii\\source\\repos\\TestApp\\TestApp\\TestApp.csproj": {
+    "C:\\src\\test\\TestApp\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oleksii\\source\\repos\\TestApp\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "C:\\src\\test\\TestApp\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\Oleksii\\source\\repos\\TestApp\\TestApp\\TestApp.csproj",
-        "packagesPath": "C:\\Users\\Oleksii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oleksii\\source\\repos\\TestApp\\TestApp\\obj\\",
+        "projectPath": "C:\\src\\test\\TestApp\\TestApp\\TestApp.csproj",
+        "packagesPath": "C:\\Users\\Oskol\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\test\\TestApp\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Oleksii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Oskol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IeW4B8AjPDG4nreiNpvIc1Ys0WGXt8b9VtzbQtFB5m0kak4X+J42gZmLMeoloWzFJKRwHKRUL4onS77Yx3fecQ==",
+  "dgSpecHash": "fxKL5o0qJTTNO5bLvayv0GgeBLdKt5V562PfFy7ioIBIbOtVBUwQ8cXdz5synAUS+cyRgMqA3qNOUywrPjBTQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oleksii\\source\\repos\\TestApp\\TestApp\\TestApp.csproj",
+  "projectFilePath": "C:\\src\\test\\TestApp\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
